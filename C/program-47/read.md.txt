@@ -1,0 +1,2 @@
+# Program-47
+## This is a c program to print the minimum and maximum element in an array
